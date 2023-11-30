@@ -1,2 +1,2 @@
 # Tugas Web Design
-- Form Registrasi (registrasi.html)
++ Form Registrasi *(registrasi.html)*
